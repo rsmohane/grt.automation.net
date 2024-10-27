@@ -11,4 +11,4 @@ This is the official website for **Grt Assistant Automation and Security Pvt. Lt
 ## Setup and Deployment  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/YOUR_USERNAME/grt-assistant-website.git
+   git clone https://github.com/rsmohane@gmail.com/grt-assistant-website.git
