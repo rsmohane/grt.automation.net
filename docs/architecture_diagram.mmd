@@ -1,0 +1,31 @@
+graph TD
+    subgraph Users
+        A[Web App]
+        B[Mobile App]
+        C[Desktop App]
+    end
+    A --> D[Frontend (React + ASP.NET)]
+    B --> D
+    C --> D
+    D --> E[API Gateway]
+    E --> F[Microservices]
+    F --> G[Automation Engine]
+    F --> H[AI Engine]
+    F --> I[Security Layer]
+    F --> J[API Marketplace]
+    F --> K[Data Marketplace]
+    F --> L[Identity Platform]
+    F --> M[Dev Platform]
+    F --> N[Payment Platform]
+    F --> O[Analytics Platform]
+    F --> P[Global Share Platform]
+    I --> Q[SQL Server Database]
+    Q --> R[Azure Cloud Infrastructure]
+    R --> S[Azure App Service]
+    R --> T[AKS]
+    R --> U[Azure SQL Database]
+    R --> V[Azure Blob Storage]
+    R --> W[Azure Key Vault]
+    R --> X[Azure CDN]
+    R --> Y[Azure Monitor]
+    R --> Z[Redis Cache]

@@ -1,0 +1,31 @@
+# .NET
+**/bin/
+**/obj/
+**/*.user
+**/*.suo
+**/*.userprefs
+**/*.csproj.user
+**/*.cache
+
+overWrite: false
+# Visual Studio
+.vs/
+
+# Mac
+.DS_Store
+
+# Node
+node_modules/
+
+# Logs
+*.log
+
+# npm package lock
+package-lock.json
+yarn.lock
+
+# IDE directories
+.idea/
+
+# Azure Functions local settings
+local.settings.json

@@ -1,0 +1,29 @@
+name: CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v3
+      with:
+        dotnet-version: '10.0.x'
+    - name: Restore dependencies
+      run: dotnet restore src/GRTAssist.Nexus.Platform.sln
+    - name: Build
+      run: dotnet build src/GRTAssist.Nexus.Platform.sln --configuration Release --no-restore
+    - name: Run tests
+      run: |
+        dotnet test src/GRTAssist.Nexus.Platform.sln --no-build --verbosity normal
+    - name: Publish
+      if: github.event_name == 'push'
+      run: |
+        echo "Publish steps would go here (e.g., docker build/push)"

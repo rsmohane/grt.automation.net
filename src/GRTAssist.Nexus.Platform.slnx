@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="GRTAssist.Admin/GRTAssist.Admin.csproj" />
+  <Project Path="GRTAssist.AI/GRTAssist.AI.csproj" />
+  <Project Path="GRTAssist.API/GRTAssist.API.csproj" />
+  <Project Path="GRTAssist.Automation/GRTAssist.Automation.csproj" />
+  <Project Path="GRTAssist.DataAccess/GRTAssist.DataAccess.csproj" />
+  <Project Path="GRTAssist.Functions/GRTAssist.Functions.csproj" />
+  <Project Path="GRTAssist.Security/GRTAssist.Security.csproj" />
+  <Project Path="GRTAssist.Shared/GRTAssist.Shared.csproj" />
+  <Project Path="GRTAssist.Tests/GRTAssist.Tests.csproj" />
+  <Project Path="GRTAssist.Web/GRTAssist.Web.csproj" />
+</Solution>
