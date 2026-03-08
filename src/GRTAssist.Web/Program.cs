@@ -1,7 +1,22 @@
+// using GRTAssist.API.Models;
+// using Microsoft.AspNetCore.Identity;
+// using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
+builder.Services.AddSession();
+
+// Database
+// builder.Services.AddDbContext<ApplicationDbContext>(options =>
+//     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+// Identity
+// builder.Services.AddIdentity<User, Role>()
+//     .AddEntityFrameworkStores<ApplicationDbContext>()
+//     .AddDefaultTokenProviders()
+//     .AddDefaultUI();
 
 var app = builder.Build();
 
@@ -17,10 +32,10 @@ app.UseHttpsRedirection();
 
 app.UseRouting();
 
+app.UseSession();
+app.UseAuthentication();
 app.UseAuthorization();
 
-app.MapStaticAssets();
-app.MapRazorPages()
-   .WithStaticAssets();
+app.MapRazorPages();
 
 app.Run();

@@ -1,7 +1,6 @@
 using GRTAssist.API.Models;
 using GRTAssist.API.Services;
 using GRTAssist.API.Services.Interfaces;
-using GRTAssist.API.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
@@ -72,9 +71,18 @@ builder.Services.AddCors(options =>
 // Controllers
 builder.Services.AddControllers();
 
+// Add Swagger
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
+if (app.Environment.IsDevelopment())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI();
+}
 app.UseHttpsRedirection();
 app.UseCors("AllowAll");
 app.UseAuthentication();
