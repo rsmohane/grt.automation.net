@@ -1,0 +1,3 @@
+Enrichment log (append)
+
+2026-07-01T15:02:00Z - Batch 1 queued (rows 1-250). Automated lookup jobs scheduled. Will update with results after first sub-batch completes.

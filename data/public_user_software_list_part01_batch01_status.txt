@@ -1,0 +1,16 @@
+Batch 1 status for enrichment of public_user_software_list (top 1,000 entries)
+
+Batch: 1 of 4
+Rows: 1 - 250
+Status: queued
+Started at: 2026-07-01T15:02:00Z
+
+Notes:
+- Automated lookup jobs for Latest Version and License Link have been queued for these rows.
+- Affiliate Search Key placeholders will remain unchanged during this pass.
+- I will process the rows in sub-batches, perform automated vendor page lookups, then run spot manual checks for ambiguous results. After each processed sub-batch I will update this status file and commit the enriched CSV for that sub-batch.
+
+Files referenced:
+- data/public_user_software_list_part01.csv (source for rows 1-250)
+- data/public_user_software_list_part01_batch01_status.csv (this file)
+- PR draft: data/PR_DRAFT.md
