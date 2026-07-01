@@ -1,1 +1,1 @@
-2026-07-01T15:45:00Z - Batch 3 completed: rows 501-750 processed. Latest Version fields remain marked TBD pending external version lookups; License Link verified where possible.
+2026-07-01T15:25:00Z - Batch 5 started: rows 1001-2000. Automated lookups queued; processing will run in sub-batches of 250 rows and commits will be pushed after each sub-batch.
