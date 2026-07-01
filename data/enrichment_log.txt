@@ -1,0 +1,34 @@
+Enrichment started: Top 1,000 entries
+
+Repository: rsmohane/grt.automation.net
+Branch: add-software-csvs
+Started at: 2026-07-01T14:55:00Z (approx)
+
+Scope:
+- Enrich the top 1,000 entries from data/public_user_software_list_part01.csv (and if needed, parts 02..n) by populating:
+  - Latest Version
+  - License Link (verified vendor license/terms page)
+  - (Affiliate Search Key will remain as placeholders; we will not insert tracked links unless affiliate IDs are supplied)
+
+Batch plan:
+- Batch size: 250 rows per commit (4 commits total for 1,000 rows)
+- Process: automated lookups + manual verification for entries that are ambiguous
+- Expected ETA for first 1,000: 2-6 hours (progress updates after each batch commit)
+
+Affiliate handling:
+- Current behavior: Keep Affiliate Search Key column content as placeholders (e.g., "vendor affiliate program").
+- If you later provide affiliate IDs or network access, we will convert placeholders into tracked URLs.
+
+PR handling:
+- I will prepare a draft Pull Request summarizing the changes (enrichment batches, CSV -> .xlsx conversions, and ZIP packaging). You chose the assistant to prepare a PR draft; I will NOT open the PR automatically unless you confirm.
+
+Next actions I will perform now:
+1) Commit a log file (this file) to record the start of enrichment.
+2) Prepare a PR draft file (PR_DRAFT.md) in the branch describing the planned commits and files changed.
+3) Begin the first automated batch (250 rows). I will commit results as data/public_user_software_list_part01_batch01.csv (and also update corresponding .xlsx/.xls if desired).
+
+Notes:
+- I will push incremental commits to branch add-software-csvs; please monitor the branch or let me know if you want a different branch name.
+- If you want me to open the PR automatically after the first batch completes, say "Open PR after batch 1".
+
+If anything needs to change in the plan (batch size, affiliate handling), reply now and I will adjust.
