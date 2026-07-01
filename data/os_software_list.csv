@@ -1,0 +1,44 @@
+Software Name,Official Download Link,Affiliate Link,Manufacturer,SEO-friendly Slug
+Windows 11,https://www.microsoft.com/software-download/windows11,N/A,Microsoft,windows-11
+Windows 10,https://www.microsoft.com/software-download/windows10,N/A,Microsoft,windows-10
+Windows Server 2022,https://www.microsoft.com/windows-server,N/A,Microsoft,windows-server-2022
+macOS,https://www.apple.com/macos/,N/A,Apple Inc.,macos
+iOS,https://www.apple.com/ios/,N/A,Apple Inc.,ios
+Android,https://www.android.com/,N/A,Google,android
+Ubuntu LTS,https://ubuntu.com/download,N/A,Canonical Ltd.,ubuntu-lts
+Debian,https://www.debian.org/distrib/,N/A,Debian Project,debian
+Fedora Workstation,https://getfedora.org/,N/A,Fedora Project,fedora-workstation
+Red Hat Enterprise Linux (RHEL),https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux,N/A,Red Hat,red-hat-enterprise-linux
+CentOS Stream,https://www.centos.org/centos-stream/,N/A,CentOS Project,centos-stream
+Rocky Linux,https://rockylinux.org/download/,N/A,Rocky Enterprise Software Foundation,rocky-linux
+AlmaLinux,https://almalinux.org/download/,N/A,AlmaLinux OS Foundation,almalinux
+openSUSE Leap,https://get.opensuse.org/leap/,N/A,openSUSE Project,opensuse-leap
+openSUSE Tumbleweed,https://get.opensuse.org/tumbleweed/,N/A,openSUSE Project,opensuse-tumbleweed
+SUSE Linux Enterprise,https://www.suse.com/products/server/,N/A,SUSE,suse-linux-enterprise
+Arch Linux,https://archlinux.org/download/,N/A,Arch Linux Project,arch-linux
+Manjaro,https://manjaro.org/download/,N/A,Manjaro GmbH & Co. KG,manjaro
+Linux Mint,https://linuxmint.com/download.php,N/A,Linux Mint Team,linux-mint
+Pop!_OS,https://pop.system76.com/,N/A,System76,pop-os
+elementary OS,https://elementary.io/,N/A,Elementary,elementary-os
+Zorin OS,https://zorin.com/os/download/,N/A,Zorin Group,zorin-os
+Kali Linux,https://www.kali.org/get-kali/,N/A,Offensive Security,kali-linux
+Raspberry Pi OS,https://www.raspberrypi.org/software/operating-systems/,N/A,Raspberry Pi Foundation,raspberry-pi-os
+FreeBSD,https://www.freebsd.org/where/,N/A,The FreeBSD Project,freebsd
+OpenBSD,https://www.openbsd.org/,N/A,OpenBSD Project,openbsd
+NetBSD,https://www.netbsd.org/releases/,N/A,NetBSD Foundation,netbsd
+Oracle Solaris,https://www.oracle.com/solaris/solaris11/,N/A,Oracle Corporation,oracle-solaris
+IBM AIX,https://www.ibm.com/products/aix,N/A,IBM,ibm-aix
+HP-UX,https://support.hpe.com/hpesc/public/home,N/A,Hewlett Packard Enterprise,hp-ux
+Amazon Linux 2,https://aws.amazon.com/amazon-linux-2/,N/A,Amazon Web Services,amazon-linux-2
+Clear Linux,https://clearlinux.org/downloads,N/A,Intel,clear-linux
+Gentoo,https://www.gentoo.org/downloads/,N/A,Gentoo Foundation,gentoo
+Slackware,http://www.slackware.com/getslack/,N/A,Slackware,slackware
+OpenIndiana,https://www.openindiana.org/,N/A,OpenIndiana Project,openindiana
+Tizen,https://developer.tizen.org/development/tizen-studio/download,N/A,Samsung / Tizen Association,tizen
+HarmonyOS,https://developer.harmonyos.com/en/docs/documentation/doc-guides/download-0000001050032796,N/A,Huawei,harmonyos
+KaiOS,https://www.kaiostech.com/,N/A,KaiOS Technologies,kaios
+Chromium OS,https://www.chromium.org/chromium-os,N/A,Chromium Project,chromium-os
+Windows 10 IoT,https://docs.microsoft.com/windows/iot/,N/A,Microsoft,windows-10-iot
+Amazon Fire OS,https://developer.amazon.com/docs/fire-app-testing/fire-os-overview.html,N/A,Amazon,fire-os
+Oracle Linux,https://www.oracle.com/linux/downloads/,N/A,Oracle Corporation,oracle-linux
+Scientific Linux (archive),https://scientificlinux.org/,N/A,Scientific Linux Project,scientific-linux
