@@ -1,0 +1,9 @@
+Batch 5 status for enrichment of public_user_software_list (rows 1001-2000)
+
+Batch: 5 of 13
+Rows: 1001 - 2000
+Status: queued
+Queued at: 2026-07-01T15:16:00Z
+
+Notes:
+- This batch is queued to run after current processes. It will populate Latest Version and License Link where available and keep Affiliate Search Key placeholders.

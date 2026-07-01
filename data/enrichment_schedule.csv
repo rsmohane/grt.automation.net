@@ -1,0 +1,16 @@
+public_user_software_list enrichment schedule (1k increments)
+
+batch_id,row_start,row_end,status,started_at,completed_at,rows_completed
+1,1,250,completed,2026-07-01T15:02:00Z,2026-07-01T15:10:00Z,250
+2,251,500,completed,2026-07-01T15:30:00Z,2026-07-01T15:35:00Z,250
+3,501,750,completed,2026-07-01T15:40:00Z,2026-07-01T15:45:00Z,250
+4,751,1000,completed,2026-07-01T15:50:00Z,2026-07-01T15:55:00Z,250
+5,1001,2000,queued,,,
+6,2001,3000,queued,,,
+7,3001,4000,queued,,,
+8,4001,5000,queued,,,
+9,5001,6000,queued,,,
+10,6001,7000,queued,,,
+11,7001,8000,queued,,,
+12,8001,9000,queued,,,
+13,9001,10000,queued,,,
