@@ -1,0 +1,68 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>Public Software List</x:Name>
+    <x:WorksheetOptions>
+     <x:Print>
+      <x:ValidPrinterInfo/>
+     </x:Print>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+<title>Public Software List</title>
+</head>
+<body>
+<table border="1">
+<tr><th>Software Name</th><th>Official Download Link</th><th>Affiliate Link</th><th>Manufacturer</th><th>SEO-friendly Slug</th></tr>
+<tr><td>Google Chrome</td><td>https://www.google.com/chrome/</td><td>N/A</td><td>Google</td><td>google-chrome</td></tr>
+<tr><td>Mozilla Firefox</td><td>https://www.mozilla.org/firefox/</td><td>N/A</td><td>Mozilla</td><td>mozilla-firefox</td></tr>
+<tr><td>Microsoft Edge</td><td>https://www.microsoft.com/edge</td><td>N/A</td><td>Microsoft</td><td>microsoft-edge</td></tr>
+<tr><td>Brave Browser</td><td>https://brave.com/download/</td><td>N/A</td><td>Brave Software</td><td>brave-browser</td></tr>
+<tr><td>VLC Media Player</td><td>https://www.videolan.org/vlc/</td><td>N/A</td><td>VideoLAN</td><td>vlc-media-player</td></tr>
+<tr><td>Spotify</td><td>https://www.spotify.com/download/</td><td>N/A</td><td>Spotify Ltd.</td><td>spotify</td></tr>
+<tr><td>iTunes</td><td>https://www.apple.com/itunes/</td><td>N/A</td><td>Apple Inc.</td><td>itunes</td></tr>
+<tr><td>Microsoft Office</td><td>https://www.microsoft.com/microsoft-365</td><td>N/A</td><td>Microsoft</td><td>microsoft-office</td></tr>
+<tr><td>LibreOffice</td><td>https://www.libreoffice.org/download/</td><td>N/A</td><td>The Document Foundation</td><td>libreoffice</td></tr>
+<tr><td>Adobe Acrobat Reader</td><td>https://get.adobe.com/reader/</td><td>N/A</td><td>Adobe Inc.</td><td>adobe-acrobat-reader</td></tr>
+<tr><td>GIMP</td><td>https://www.gimp.org/downloads/</td><td>N/A</td><td>The GIMP Team</td><td>gimp</td></tr>
+<tr><td>Paint.NET</td><td>https://www.getpaint.net/download.html</td><td>N/A</td><td>dotPDN LLC</td><td>paintnet</td></tr>
+<tr><td>7-Zip</td><td>https://www.7-zip.org/</td><td>N/A</td><td>7-Zip Team</td><td>7-zip</td></tr>
+<tr><td>WinRAR</td><td>https://www.win-rar.com/download.html</td><td>N/A</td><td>win.rar GmbH</td><td>winrar</td></tr>
+<tr><td>Dropbox</td><td>https://www.dropbox.com/install</td><td>N/A</td><td>Dropbox</td><td>dropbox</td></tr>
+<tr><td>Google Drive</td><td>https://www.google.com/drive/download/</td><td>N/A</td><td>Google</td><td>google-drive</td></tr>
+<tr><td>Microsoft OneDrive</td><td>https://onedrive.live.com/about/en-us/download/</td><td>N/A</td><td>Microsoft</td><td>onedrive</td></tr>
+<tr><td>TeamViewer</td><td>https://www.teamviewer.com/en/download/</td><td>N/A</td><td>TeamViewer GmbH</td><td>teamviewer</td></tr>
+<tr><td>Zoom</td><td>https://zoom.us/download</td><td>N/A</td><td>Zoom Video Communications</td><td>zoom</td></tr>
+<tr><td>Skype</td><td>https://www.skype.com/download</td><td>N/A</td><td>Microsoft</td><td>skype</td></tr>
+<tr><td>Slack</td><td>https://slack.com/downloads/</td><td>N/A</td><td>Slack Technologies</td><td>slack</td></tr>
+<tr><td>Discord</td><td>https://discord.com/download</td><td>N/A</td><td>Discord Inc.</td><td>discord</td></tr>
+<tr><td>Steam</td><td>https://store.steampowered.com/about/</td><td>N/A</td><td>Valve Corporation</td><td>steam</td></tr>
+<tr><td>Epic Games Launcher</td><td>https://www.epicgames.com/store/en-US/download</td><td>N/A</td><td>Epic Games</td><td>epic-games-launcher</td></tr>
+<tr><td>OBS Studio</td><td>https://obsproject.com/download</td><td>N/A</td><td>OBS Project</td><td>obs-studio</td></tr>
+<tr><td>HandBrake</td><td>https://handbrake.fr/downloads.php</td><td>N/A</td><td>HandBrake Team</td><td>handbrake</td></tr>
+<tr><td>Notepad++</td><td>https://notepad-plus-plus.org/downloads/</td><td>N/A</td><td>Notepad++ Community</td><td>notepad-plus-plus</td></tr>
+<tr><td>Sublime Text</td><td>https://www.sublimetext.com/3</td><td>N/A</td><td>Sublime HQ</td><td>sublime-text</td></tr>
+<tr><td>Visual Studio Code</td><td>https://code.visualstudio.com/download</td><td>N/A</td><td>Microsoft</td><td>visual-studio-code</td></tr>
+<tr><td>Visual Studio</td><td>https://visualstudio.microsoft.com/vs/</td><td>N/A</td><td>Microsoft</td><td>visual-studio</td></tr>
+<tr><td>Git</td><td>https://git-scm.com/downloads</td><td>N/A</td><td>The Git Community</td><td>git</td></tr>
+<tr><td>GitHub Desktop</td><td>https://desktop.github.com/</td><td>N/A</td><td>GitHub</td><td>github-desktop</td></tr>
+<tr><td>Postman</td><td>https://www.postman.com/downloads/</td><td>N/A</td><td>Postman</td><td>postman</td></tr>
+<tr><td>Thunderbird</td><td>https://www.thunderbird.net/</td><td>N/A</td><td>Thunderbird Community</td><td>thunderbird</td></tr>
+<tr><td>Bitwarden</td><td>https://bitwarden.com/download/</td><td>N/A</td><td>Bitwarden Inc.</td><td>bitwarden</td></tr>
+<tr><td>LastPass</td><td>https://www.lastpass.com/download</td><td>N/A</td><td>LogMeIn</td><td>lastpass</td></tr>
+<tr><td>Malwarebytes</td><td>https://www.malwarebytes.com/</td><td>N/A</td><td>Malwarebytes Inc.</td><td>malwarebytes</td></tr>
+<tr><td>Avast Free Antivirus</td><td>https://www.avast.com/free-antivirus-download</td><td>N/A</td><td>Avast</td><td>avast-free-antivirus</td></tr>
+<tr><td>Bitdefender Free</td><td>https://www.bitdefender.com/solutions/free.html</td><td>N/A</td><td>Bitdefender</td><td>bitdefender-free</td></tr>
+<tr><td>CCleaner</td><td>https://www.ccleaner.com/ccleaner/download</td><td>N/A</td><td>Avast (Piriform)</td><td>ccleaner</td></tr>
+<tr><td>VirtualBox</td><td>https://www.virtualbox.org/wiki/Downloads</td><td>N/A</td><td>Oracle</td><td>virtualbox</td></tr>
+<tr><td>VMware Workstation Player</td><td>https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html</td><td>N/A</td><td>VMware</td><td>vmware-workstation-player</td></tr>
+<tr><td>Docker Desktop</td><td>https://www.docker.com/products/docker-desktop</td><td>N/A</td><td>Docker</td><td>docker-desktop</td></tr>
+</table>
+</body>
+</html>

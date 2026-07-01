@@ -1,0 +1,68 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>OS Software List</x:Name>
+    <x:WorksheetOptions>
+     <x:Print>
+      <x:ValidPrinterInfo/>
+     </x:Print>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+<title>OS Software List</title>
+</head>
+<body>
+<table border="1">
+<tr><th>Software Name</th><th>Official Download Link</th><th>Affiliate Link</th><th>Manufacturer</th><th>SEO-friendly Slug</th></tr>
+<tr><td>Windows 11</td><td>https://www.microsoft.com/software-download/windows11</td><td>N/A</td><td>Microsoft</td><td>windows-11</td></tr>
+<tr><td>Windows 10</td><td>https://www.microsoft.com/software-download/windows10</td><td>N/A</td><td>Microsoft</td><td>windows-10</td></tr>
+<tr><td>Windows Server 2022</td><td>https://www.microsoft.com/windows-server</td><td>N/A</td><td>Microsoft</td><td>windows-server-2022</td></tr>
+<tr><td>macOS</td><td>https://www.apple.com/macos/</td><td>N/A</td><td>Apple Inc.</td><td>macos</td></tr>
+<tr><td>iOS</td><td>https://www.apple.com/ios/</td><td>N/A</td><td>Apple Inc.</td><td>ios</td></tr>
+<tr><td>Android</td><td>https://www.android.com/</td><td>N/A</td><td>Google</td><td>android</td></tr>
+<tr><td>Ubuntu LTS</td><td>https://ubuntu.com/download</td><td>N/A</td><td>Canonical Ltd.</td><td>ubuntu-lts</td></tr>
+<tr><td>Debian</td><td>https://www.debian.org/distrib/</td><td>N/A</td><td>Debian Project</td><td>debian</td></tr>
+<tr><td>Fedora Workstation</td><td>https://getfedora.org/</td><td>N/A</td><td>Fedora Project</td><td>fedora-workstation</td></tr>
+<tr><td>Red Hat Enterprise Linux (RHEL)</td><td>https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux</td><td>N/A</td><td>Red Hat</td><td>red-hat-enterprise-linux</td></tr>
+<tr><td>CentOS Stream</td><td>https://www.centos.org/centos-stream/</td><td>N/A</td><td>CentOS Project</td><td>centos-stream</td></tr>
+<tr><td>Rocky Linux</td><td>https://rockylinux.org/download/</td><td>N/A</td><td>Rocky Enterprise Software Foundation</td><td>rocky-linux</td></tr>
+<tr><td>AlmaLinux</td><td>https://almalinux.org/download/</td><td>N/A</td><td>AlmaLinux OS Foundation</td><td>almalinux</td></tr>
+<tr><td>openSUSE Leap</td><td>https://get.opensuse.org/leap/</td><td>N/A</td><td>openSUSE Project</td><td>opensuse-leap</td></tr>
+<tr><td>openSUSE Tumbleweed</td><td>https://get.opensuse.org/tumbleweed/</td><td>N/A</td><td>openSUSE Project</td><td>opensuse-tumbleweed</td></tr>
+<tr><td>SUSE Linux Enterprise</td><td>https://www.suse.com/products/server/</td><td>N/A</td><td>SUSE</td><td>suse-linux-enterprise</td></tr>
+<tr><td>Arch Linux</td><td>https://archlinux.org/download/</td><td>N/A</td><td>Arch Linux Project</td><td>arch-linux</td></tr>
+<tr><td>Manjaro</td><td>https://manjaro.org/download/</td><td>N/A</td><td>Manjaro GmbH &amp; Co. KG</td><td>manjaro</td></tr>
+<tr><td>Linux Mint</td><td>https://linuxmint.com/download.php</td><td>N/A</td><td>Linux Mint Team</td><td>linux-mint</td></tr>
+<tr><td>Pop!_OS</td><td>https://pop.system76.com/</td><td>N/A</td><td>System76</td><td>pop-os</td></tr>
+<tr><td>elementary OS</td><td>https://elementary.io/</td><td>N/A</td><td>Elementary</td><td>elementary-os</td></tr>
+<tr><td>Zorin OS</td><td>https://zorin.com/os/download/</td><td>N/A</td><td>Zorin Group</td><td>zorin-os</td></tr>
+<tr><td>Kali Linux</td><td>https://www.kali.org/get-kali/</td><td>N/A</td><td>Offensive Security</td><td>kali-linux</td></tr>
+<tr><td>Raspberry Pi OS</td><td>https://www.raspberrypi.org/software/operating-systems/</td><td>N/A</td><td>Raspberry Pi Foundation</td><td>raspberry-pi-os</td></tr>
+<tr><td>FreeBSD</td><td>https://www.freebsd.org/where/</td><td>N/A</td><td>The FreeBSD Project</td><td>freebsd</td></tr>
+<tr><td>OpenBSD</td><td>https://www.openbsd.org/</td><td>N/A</td><td>OpenBSD Project</td><td>openbsd</td></tr>
+<tr><td>NetBSD</td><td>https://www.netbsd.org/releases/</td><td>N/A</td><td>NetBSD Foundation</td><td>netbsd</td></tr>
+<tr><td>Oracle Solaris</td><td>https://www.oracle.com/solaris/solaris11/</td><td>N/A</td><td>Oracle Corporation</td><td>oracle-solaris</td></tr>
+<tr><td>IBM AIX</td><td>https://www.ibm.com/products/aix</td><td>N/A</td><td>IBM</td><td>ibm-aix</td></tr>
+<tr><td>HP-UX</td><td>https://support.hpe.com/hpesc/public/home</td><td>N/A</td><td>Hewlett Packard Enterprise</td><td>hp-ux</td></tr>
+<tr><td>Amazon Linux 2</td><td>https://aws.amazon.com/amazon-linux-2/</td><td>N/A</td><td>Amazon Web Services</td><td>amazon-linux-2</td></tr>
+<tr><td>Clear Linux</td><td>https://clearlinux.org/downloads</td><td>N/A</td><td>Intel</td><td>clear-linux</td></tr>
+<tr><td>Gentoo</td><td>https://www.gentoo.org/downloads/</td><td>N/A</td><td>Gentoo Foundation</td><td>gentoo</td></tr>
+<tr><td>Slackware</td><td>http://www.slackware.com/getslack/</td><td>N/A</td><td>Slackware</td><td>slackware</td></tr>
+<tr><td>OpenIndiana</td><td>https://www.openindiana.org/</td><td>N/A</td><td>OpenIndiana Project</td><td>openindiana</td></tr>
+<tr><td>Tizen</td><td>https://developer.tizen.org/development/tizen-studio/download</td><td>N/A</td><td>Samsung / Tizen Association</td><td>tizen</td></tr>
+<tr><td>HarmonyOS</td><td>https://developer.harmonyos.com/en/docs/documentation/doc-guides/download-0000001050032796</td><td>N/A</td><td>Huawei</td><td>harmonyos</td></tr>
+<tr><td>KaiOS</td><td>https://www.kaiostech.com/</td><td>N/A</td><td>KaiOS Technologies</td><td>kaios</td></tr>
+<tr><td>Chromium OS</td><td>https://www.chromium.org/chromium-os</td><td>N/A</td><td>Chromium Project</td><td>chromium-os</td></tr>
+<tr><td>Windows 10 IoT</td><td>https://docs.microsoft.com/windows/iot/</td><td>N/A</td><td>Microsoft</td><td>windows-10-iot</td></tr>
+<tr><td>Amazon Fire OS</td><td>https://developer.amazon.com/docs/fire-app-testing/fire-os-overview.html</td><td>N/A</td><td>Amazon</td><td>fire-os</td></tr>
+<tr><td>Oracle Linux</td><td>https://www.oracle.com/linux/downloads/</td><td>N/A</td><td>Oracle Corporation</td><td>oracle-linux</td></tr>
+<tr><td>Scientific Linux (archive)</td><td>https://scientificlinux.org/</td><td>N/A</td><td>Scientific Linux Project</td><td>scientific-linux</td></tr>
+</table>
+</body>
+</html>
