@@ -1,3 +1,1 @@
-Enrichment log (append)
-
-2026-07-01T15:02:00Z - Batch 1 queued (rows 1-250). Automated lookup jobs scheduled. Will update with results after first sub-batch completes.
+2026-07-01T15:10:00Z - Batch 1 completed: rows 1-250 processed. Latest Version fields remain marked TBD pending external version lookups; License Link verified where possible.
