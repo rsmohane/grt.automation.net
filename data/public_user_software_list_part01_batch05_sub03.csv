@@ -1,0 +1,21 @@
+Software Name,Official Download Link,Affiliate Search Key,Category,Latest Version,License Link,Notes
+Etcd,https://github.com/etcd-io/etcd/releases,etcd affiliate program,Key-Value Store,3.5.9,https://github.com/etcd-io/etcd/blob/main/LICENSE,Distributed configuration
+Consul,https://www.consul.io/downloads,hashicorp affiliate program,Service Mesh,1.16.2,https://www.consul.io/license,Service discovery
+Nomad,https://www.nomadproject.io/downloads,hashicorp affiliate program,Orchestration,1.6.3,https://www.nomadproject.io/license,Workload orchestration
+Vault,https://www.vaultproject.io/downloads,hashicorp affiliate program,Security,1.15.2,https://www.vaultproject.io/license,Secrets management
+Cert-Manager,https://cert-manager.io/docs/installation/,jetstack affiliate program,Security,1.13.1,https://github.com/cert-manager/cert-manager/blob/master/LICENSE,Certificate management
+OPATF,https://www.openpolicyagent.org/docs/latest/#running-opa,opa affiliate program,Policy Engine,0.55.0,https://www.openpolicyagent.org/docs/latest/philosophy/,Policy as code
+HashiCorp Packer,https://www.packer.io/downloads,hashicorp affiliate program,Infrastructure,1.9.4,https://www.packer.io/license,Image builder
+HashiCorp Vagrant,https://www.vagrantup.com/downloads,vagrant affiliate program,DevOps,2.4.0,https://www.vagrantup.com/terms,Development environment
+HashiCorp Terraform,https://www.terraform.io/downloads,hashicorp affiliate program,Infrastructure,1.6.2,https://www.terraform.io/license,Infrastructure as Code
+AWS CLI,https://aws.amazon.com/cli/,aws affiliate program,Cloud,2.13.25,https://aws.amazon.com/terms/,Amazon cloud CLI
+Google Cloud CLI,https://cloud.google.com/sdk/docs/install,google affiliate program,Cloud,453.0.0,https://cloud.google.com/terms,Google cloud CLI
+Azure CLI,https://learn.microsoft.com/en-us/cli/azure/install-azure-cli,microsoft affiliate program,Cloud,2.53.0,https://learn.microsoft.com/en-us/legal/,Microsoft cloud CLI
+DigitalOcean CLI,https://docs.digitalocean.com/reference/doctl/how-to/install/,digitalocean affiliate program,Cloud,1.98.0,https://www.digitalocean.com/legal/,DigitalOcean CLI
+linode CLI,https://www.linode.com/docs/guides/linode-cli/,linode affiliate program,Cloud,5.36.1,https://www.linode.com/legal/,Linode CLI
+Oculus Rift,https://www.oculus.com/setup/,meta affiliate program,VR/AR,2023.1,https://www.oculus.com/legal/,VR headset
+Valve Index,https://www.valvesoftware.com/en/index,valve affiliate program,VR/AR,2.5,https://store.steampowered.com/subscriber_agreement/,VR headset
+HTC Vive,https://www.vive.com/us/setup/,htc affiliate program,VR/AR,2.4,https://www.vive.com/us/legal/,VR headset
+PlayStation VR,https://www.playstation.com/en-us/explore/playstation-vr/,sony affiliate program,VR/AR,2.0,https://www.playstation.com/legal/,VR headset
+Microsoft HoloLens,https://www.microsoft.com/en-us/hololens/buy,microsoft affiliate program,VR/AR,2.0,https://www.microsoft.com/legal/,AR headset
+Unity XR,https://unity.com/download,unity affiliate program,VR/AR,2022.3.11,https://unity.com/legal/terms,VR/AR SDK
