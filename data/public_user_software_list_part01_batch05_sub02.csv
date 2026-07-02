@@ -1,0 +1,21 @@
+Software Name,Official Download Link,Affiliate Search Key,Category,Latest Version,License Link,Notes
+Gem,https://rubygems.org/,ruby affiliate program,Package Manager,3.4.19,https://rubygems.org/pages/license,Ruby package manager
+Cargo,https://doc.rust-lang.org/cargo/getting-started/installation.html,rust affiliate program,Package Manager,1.72.1,https://github.com/rust-lang/cargo/blob/master/LICENSE-MIT,Rust package manager
+Composer,https://getcomposer.org/download/,composer affiliate program,Package Manager,2.6.5,https://getcomposer.org/LICENSE,PHP package manager
+Gradle,https://gradle.org/install/,gradle affiliate program,Build Tool,8.4,https://gradle.org/license/,Build automation
+Maven,https://maven.apache.org/download.cgi,apache affiliate program,Build Tool,3.9.4,https://maven.apache.org/license.html,Build automation
+Ant,https://ant.apache.org/bindownload.cgi,apache affiliate program,Build Tool,1.10.13,https://ant.apache.org/license.html,Build automation
+SBT,https://www.scala-sbt.org/download.html,scala affiliate program,Build Tool,1.9.7,https://github.com/sbt/sbt/blob/develop/LICENSE,Scala build tool
+Gulp,https://gulpjs.com/docs/en/getting-started/quick-start,gulpjs affiliate program,Build Tool,4.0.2,https://github.com/gulpjs/gulp/blob/master/LICENSE,JavaScript task runner
+Grunt,https://gruntjs.com/getting-started,gruntjs affiliate program,Build Tool,1.3.0,https://gruntjs.com/,JavaScript task runner
+Webpack,https://webpack.js.org/guides/installation/,webpack affiliate program,Build Tool,5.89.0,https://github.com/webpack/webpack/blob/master/LICENSE,Module bundler
+Rollup,https://rollupjs.org/guide/en/#installation,rollup affiliate program,Build Tool,3.29.4,https://github.com/rollup/rollup/blob/master/LICENSE.md,Module bundler
+Parcel,https://parceljs.org/getting-started/setup/,parcel affiliate program,Build Tool,2.10.3,https://github.com/parcel-bundler/parcel/blob/master/LICENSE,Web bundler
+Vite,https://vitejs.dev/guide/#scaffolding-your-first-vite-project,vite affiliate program,Build Tool,5.0.0,https://github.com/vitejs/vite/blob/main/LICENSE.md,Frontend build tool
+Dockerfile,https://docs.docker.com/get-started/,docker affiliate program,Containerization,24.0.6,https://www.docker.com/legal/docker-software-end-user-license-agreement,Container format
+Kubernetes,https://kubernetes.io/docs/setup/,kubernetes affiliate program,Orchestration,1.28.2,https://kubernetes.io/docs/home/,Container orchestration
+Helm,https://helm.sh/docs/intro/install/,helm affiliate program,Package Manager,3.12.3,https://github.com/helm/helm/blob/main/LICENSE,Kubernetes package manager
+OpenStack,https://www.openstack.org/software/,openstack affiliate program,Cloud,2023.2,https://www.openstack.org/legal/,Open-source cloud
+CloudStack,https://cloudstack.apache.org/,apache affiliate program,Cloud,4.18.1.0,https://www.apache.org/licenses/LICENSE-2.0,Open-source cloud
+OpenShift,https://www.redhat.com/en/technologies/cloud-platforms/openshift,redhat affiliate program,Platform,4.13,https://www.redhat.com/rhsa,Container platform
+Mesos,http://mesos.apache.org/getting-started/,apache affiliate program,Orchestration,1.14.4,https://www.apache.org/licenses/LICENSE-2.0,Cluster manager
