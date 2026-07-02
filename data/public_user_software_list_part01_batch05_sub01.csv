@@ -1,0 +1,21 @@
+Software Name,Official Download Link,Affiliate Search Key,Category,Latest Version,License Link,Notes
+Visual Studio Code,https://code.visualstudio.com/download,microsoft affiliate program,Editor,1.92.0,https://code.visualstudio.com/license,Open-source editor
+Python,https://www.python.org/downloads/,python affiliate program,Programming Language,3.11.5,https://www.python.org/psf/license/,Programming language
+Node.js,https://nodejs.org/en/download/,nodejs affiliate program,Runtime,18.17.1,https://nodejs.org/en/about/license/,JavaScript runtime
+Java,https://www.oracle.com/java/technologies/downloads/,oracle affiliate program,Programming Language,21.0.1,https://www.oracle.com/downloads/licenses/,Programming language
+C++,https://isocpp.org/,iso affiliate program,Programming Language,C++20,https://isocpp.org/,Standards body
+Ruby,https://www.ruby-lang.org/en/downloads/,ruby affiliate program,Programming Language,3.2.2,https://www.ruby-lang.org/en/about/license/,Programming language
+PHP,https://www.php.net/downloads,php affiliate program,Programming Language,8.2.11,https://www.php.net/license/,Server-side scripting
+Go,https://golang.org/dl/,golang affiliate program,Programming Language,1.21.3,https://golang.org/LICENSE,Programming language
+Rust,https://www.rust-lang.org/tools/install,rust affiliate program,Programming Language,1.72.1,https://www.rust-lang.org/policies/licenses/,Programming language
+Swift,https://www.swift.org/download/,apple affiliate program,Programming Language,5.9,https://www.swift.org/license/,Programming language
+Kotlin,https://kotlinlang.org/docs/command-line.html,jetbrains affiliate program,Programming Language,1.9.10,https://kotlinlang.org/license/,JVM language
+Scala,https://www.scala-lang.org/download/,scala affiliate program,Programming Language,3.3.1,https://www.scala-lang.org/license/,JVM language
+Groovy,https://groovy-lang.org/download.html,groovy affiliate program,Programming Language,4.0.15,https://groovy-lang.org/license.html,JVM language
+Perl,https://www.perl.org/get.html,perl affiliate program,Programming Language,5.36.1,https://www.perl.org/license.html,Scripting language
+Bash,https://www.gnu.org/software/bash/,gnu affiliate program,Shell,5.2.15,https://www.gnu.org/software/bash/manual/,Unix shell
+Zsh,https://www.zsh.org/,zsh affiliate program,Shell,5.9,https://www.zsh.org/,Unix shell
+Fish,https://fishshell.com/,fish affiliate program,Shell,3.6.0,https://fishshell.com/docs/current/license.html,User-friendly shell
+PowerShell,https://learn.microsoft.com/en-us/powershell/scripting/install/,microsoft affiliate program,Shell,7.3.7,https://github.com/PowerShell/PowerShell/blob/master/LICENSE.txt,Microsoft shell
+Npm,https://www.npmjs.com/,npm affiliate program,Package Manager,9.8.1,https://www.npmjs.com/policies,Node package manager
+Pip,https://pip.pypa.io/en/stable/,python affiliate program,Package Manager,23.2.1,https://pip.pypa.io/en/stable/license/,Python package manager
