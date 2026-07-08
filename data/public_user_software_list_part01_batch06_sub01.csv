@@ -1,0 +1,21 @@
+Software Name,Official Download Link,Affiliate Search Key,Category,Latest Version,License Link,Notes
+MySQL,https://www.mysql.com/downloads/,mysql affiliate program,Database,8.0.35,https://www.mysql.com/about/legal/licensing/,Relational database
+PostgreSQL,https://www.postgresql.org/download/,postgresql affiliate program,Database,15.4,https://www.postgresql.org/about/license/,Relational database
+MongoDB,https://www.mongodb.com/try/download/community,mongodb affiliate program,Database,7.0.2,https://www.mongodb.com/legal/community-license/,NoSQL database
+Redis,https://redis.io/download/,redis affiliate program,Cache,7.2.2,https://redis.io/license/,In-memory data store
+Cassandra,https://cassandra.apache.org/download/,apache affiliate program,Database,4.1.3,https://cassandra.apache.org/license/,Distributed database
+Elasticsearch,https://www.elastic.co/downloads/elasticsearch,elastic affiliate program,Search,8.10.2,https://www.elastic.co/legal/elastic-license/,Search and analytics
+Solr,https://solr.apache.org/downloads.html,apache affiliate program,Search,9.4.0,https://www.apache.org/licenses/LICENSE-2.0,Search platform
+Neo4j,https://neo4j.com/download/,neo4j affiliate program,Graph Database,5.13.0,https://neo4j.com/licensing/,Graph database
+InfluxDB,https://www.influxdata.com/products/influxdb-cloud/,influx affiliate program,Time Series,3.0.0,https://www.influxdata.com/legal/terms/,Time series database
+Prometheus,https://prometheus.io/download/,prometheus affiliate program,Monitoring,2.47.1,https://github.com/prometheus/prometheus/blob/main/LICENSE,Monitoring and alerting
+Grafana,https://grafana.com/grafana/download,grafana affiliate program,Monitoring,10.0.3,https://grafana.com/licensing/,Visualization platform
+Datadog,https://www.datadoghq.com/pricing/,datadog affiliate program,Monitoring,7.46.0,https://www.datadoghq.com/legal/terms-of-use/,Monitoring SaaS
+NewRelic,https://newrelic.com/pricing,newrelic affiliate program,Monitoring,9.8.0,https://newrelic.com/terms,Monitoring platform
+Apache Spark,https://spark.apache.org/downloads.html,apache affiliate program,Big Data,3.5.0,https://spark.apache.org/license/,Data processing framework
+Apache Hadoop,https://hadoop.apache.org/releases.html,apache affiliate program,Big Data,3.3.6,https://hadoop.apache.org/license.html,Distributed computing
+Apache Hive,https://hive.apache.org/downloads.html,apache affiliate program,Analytics,4.0.0,https://hive.apache.org/license.html,Data warehouse
+DuckDB,https://duckdb.org/docs/installation/,duckdb affiliate program,Database,0.9.1,https://github.com/duckdb/duckdb/blob/main/LICENSE,In-process SQL database
+SQLite,https://www.sqlite.org/download.html,sqlite affiliate program,Database,3.43.2,https://www.sqlite.org/copyright.html,Embedded database
+MariaDB,https://mariadb.com/downloads/,mariadb affiliate program,Database,11.0.3,https://mariadb.com/licensing/,MySQL fork
+CockroachDB,https://www.cockroachlabs.com/get-cockroachdb/,cockroach affiliate program,Database,23.1.11,https://www.cockroachlabs.com/cloud-terms/,Distributed SQL database
