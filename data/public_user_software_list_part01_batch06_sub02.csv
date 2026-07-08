@@ -1,0 +1,21 @@
+Software Name,Official Download Link,Affiliate Search Key,Category,Latest Version,License Link,Notes
+Apache Kafka,https://kafka.apache.org/quickstart,apache affiliate program,Message Broker,3.6.0,https://kafka.apache.org/license/,Distributed messaging
+RabbitMQ,https://www.rabbitmq.com/download.html,rabbitmq affiliate program,Message Broker,3.12.6,https://www.rabbitmq.com/mpl.html,Message queue
+NATS,https://nats.io/download/,nats affiliate program,Message Broker,2.10.4,https://nats.io/download/license/,Cloud-native messaging
+Apache ActiveMQ,https://activemq.apache.org/download,apache affiliate program,Message Broker,5.18.3,https://activemq.apache.org/license,JMS broker
+ZeroMQ,https://zeromq.org/download/,zmq affiliate program,Message Broker,4.3.5,https://zeromq.org/legal/licensing-information/,Messaging library
+Jetstream,https://www.jetstream.io/download,jetstream affiliate program,Analytics,3.4.0,https://www.jetstream.io/legal,Event analytics
+Splunk,https://www.splunk.com/en_us/download.html,splunk affiliate program,Analytics,9.1.1,https://www.splunk.com/en_us/legal/splunk-general-terms.html,Data analytics platform
+Tableau,https://www.tableau.com/products/desktop/download,salesforce affiliate program,Analytics,2023.3,https://www.tableau.com/about/legal,Business intelligence
+QlikView,https://www.qlik.com/us/products/qlikview,qlik affiliate program,Analytics,12.70,https://www.qlik.com/us/legal,Business intelligence
+Power BI,https://powerbi.microsoft.com/en-us/downloads/,microsoft affiliate program,Analytics,3.14,https://powerbi.microsoft.com/en-us/documentation/powerbi-service-terms-of-service/,Business intelligence
+MicroStrategy,https://www.microstrategy.com/us/product/analytics,microstrategy affiliate program,Analytics,2023,https://www.microstrategy.com/en/legal/terms,Business intelligence
+Looker,https://cloud.google.com/looker/docs/intro,google affiliate program,Analytics,24.2,https://cloud.google.com/looker/docs/intro/licensing,Data platform
+Mode,https://mode.com/analytics/,mode affiliate program,Analytics,6.5,https://mode.com/privacy,Analytics platform
+Metabase,https://www.metabase.com/start/,metabase affiliate program,Analytics,0.47.1,https://github.com/metabase/metabase/blob/master/LICENSE.txt,Open-source BI
+Superset,https://superset.apache.org/docs/installation/install-superset,apache affiliate program,Analytics,3.0.2,https://superset.apache.org/docs/intro/,Open-source BI
+Redash,https://redash.io/,redash affiliate program,Analytics,10.1.0,https://github.com/getredash/redash/blob/master/LICENSE,Query and visualization
+Apache Airflow,https://airflow.apache.org/docs/apache-airflow/stable/installation/,apache affiliate program,Workflow,2.7.2,https://airflow.apache.org/docs/apache-airflow/stable/license/,Workflow orchestration
+Prefect,https://www.prefect.io/get-started/,prefect affiliate program,Workflow,2.13.8,https://www.prefect.io/legal/terms/,Workflow automation
+Dagster,https://dagster.io/install,dagster affiliate program,Workflow,1.5.7,https://github.com/dagster-io/dagster/blob/master/LICENSE,Data orchestration
+Luigi,https://luigi.readthedocs.io/en/stable/,spotify affiliate program,Workflow,3.4.0,https://github.com/spotify/luigi/blob/master/LICENSE,Workflow automation
