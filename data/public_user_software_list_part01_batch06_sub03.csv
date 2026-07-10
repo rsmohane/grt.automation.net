@@ -1,0 +1,21 @@
+Software Name,Official Download Link,Affiliate Search Key,Category,Latest Version,License Link,Notes
+Jenkins,https://www.jenkins.io/download/,jenkins affiliate program,CI/CD,2.414.2,https://www.jenkins.io/license/,Open-source automation
+GitLab CI,https://about.gitlab.com/install/,gitlab affiliate program,CI/CD,16.3.1,https://about.gitlab.com/license/,DevOps platform
+GitHub Actions,https://github.com/features/actions,github affiliate program,CI/CD,3.14,https://github.com/terms,GitHub CI/CD
+CircleCI,https://circleci.com/docs/first-steps/,circleci affiliate program,CI/CD,2.1,https://circleci.com/legal/circleci-cloud-terms-of-service/,Cloud CI/CD
+Travis CI,https://travis-ci.com/,travis affiliate program,CI/CD,2.0,https://travis-ci.org/terms-of-service,CI/CD platform
+Drone,https://www.drone.io/,drone affiliate program,CI/CD,2.20.0,https://github.com/harness/drone/blob/master/LICENSE,Open-source CI/CD
+GoCD,https://www.gocd.org/download/,gocd affiliate program,CI/CD,23.3.0,https://www.gocd.org/license,Continuous delivery
+Spinnaker,https://spinnaker.io/docs/setup/quickstart/,spinnaker affiliate program,Deployment,1.32.2,https://www.apache.org/licenses/LICENSE-2.0,Deployment automation
+Argo CD,https://argo-cd.readthedocs.io/en/stable/getting_started/,cncf affiliate program,Deployment,2.8.3,https://github.com/argoproj/argo-cd/blob/master/LICENSE,GitOps deployment
+Flux,https://fluxcd.io/flux/installation/,cncf affiliate program,Deployment,2.1.1,https://github.com/fluxcd/flux2/blob/main/LICENSE,GitOps operator
+SonarQube,https://www.sonarqube.org/downloads/,sonarqube affiliate program,Code Quality,9.9.3.79811,https://www.sonarqube.org/downloads/license-information/,Code analysis
+CodeClimate,https://codeclimate.com/,codeclimate affiliate program,Code Quality,4.8,https://codeclimate.com/terms,Code quality platform
+Coveralls,https://coveralls.io/,coveralls affiliate program,Code Quality,1.11.0,https://coveralls.io/terms,Coverage tracking
+Snyk,https://snyk.io/download/,snyk affiliate program,Security,1.1260.0,https://snyk.io/terms-of-service/,Vulnerability scanning
+WhiteSource,https://www.whitesourcesoftware.com/free-developer-tools/,whitesource affiliate program,Security,23.9,https://www.whitesourcesoftware.com/terms-of-use/,Dependency scanning
+Twistlock,https://www.twistlock.com/,palo alto affiliate program,Security,22.12.415,https://www.paloaltonetworks.com/terms,Container security
+AquaSecurity,https://www.aquasec.com/,aqua affiliate program,Security,6.0.2,https://www.aquasec.com/terms,Container security
+HashiCorp Boundary,https://www.boundaryproject.io/downloads,hashicorp affiliate program,Security,0.14.3,https://www.boundaryproject.io/license,Access management
+OAuth 2.0,https://oauth.net/2/,ietf affiliate program,Security,2.1,https://oauth.net/2/license/,Authorization protocol
+OpenID Connect,https://openid.net/connect/,openid affiliate program,Security,1.0,https://openid.net/connect/license/,Authentication protocol

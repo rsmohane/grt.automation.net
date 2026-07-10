@@ -1,2 +1,2 @@
 row_start,row_end,status,started_at,completed_at,rows_completed
-2501,2750,in_progress,2026-07-02T20:55:00Z,,0
+2501,2750,completed,2026-07-02T20:55:00Z,2026-07-02T21:05:00Z,250
